@@ -7,6 +7,8 @@ https://github.com/Dinastino/Examen_Redes1.git
 
 ### Acceder a la teoría:
 
+[Teoría](resultados/Teoría.md)
+
 
 ## Cisco packet tracer
 
