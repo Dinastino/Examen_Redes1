@@ -10,7 +10,11 @@ https://github.com/Dinastino/Examen_Redes1.git
 
 ## Cisco packet tracer
 
+
 ### - Ejercicio 1:
 
 
 ### - Ejercicio 2:
+
+
+## Diagramas:
