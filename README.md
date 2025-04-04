@@ -19,5 +19,8 @@ https://github.com/Dinastino/Examen_Redes1.git
 
 ### - Ejercicio 2:
 
+[Ejercicio 2](resultados/CiscoPacketTracer/Ejercicio%202.md)
+
+
 
 ## Diagramas:
