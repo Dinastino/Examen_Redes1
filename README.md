@@ -15,6 +15,9 @@ https://github.com/Dinastino/Examen_Redes1.git
 
 [Ejercicio 1](resultados/CiscoPacketTracer/Ejercicio%201.md)
 
+[CiudadA-CiudadB.pkt](resultados/CiscoPacketTracer/CiudadA-CiudadB.pkt)
+
+
 
 
 ### - Ejercicio 2:
