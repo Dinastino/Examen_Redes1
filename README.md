@@ -24,6 +24,9 @@ https://github.com/Dinastino/Examen_Redes1.git
 
 [Ejercicio 2](resultados/CiscoPacketTracer/Ejercicio%202.md)
 
+[Diagrama Ejercicio Ciudad Aislada](resultados/Diagramas/Diagrama%20Ejercicio%20Ciudad%20Aisl
+
+
 
 
 ## Diagramas:
