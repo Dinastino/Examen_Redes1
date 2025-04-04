@@ -6,3 +6,11 @@ https://github.com/Dinastino/Examen_Redes1.git
 ## Teoría 
 
 ### Acceder a la teoría:
+
+
+## Cisco packet tracer
+
+### - Ejercicio 1:
+
+
+### - Ejercicio 2:
